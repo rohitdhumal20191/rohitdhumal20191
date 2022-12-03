@@ -1,4 +1,7 @@
-![logo](https://github.com/rohitdhumal20191/rohitdhumal20191/blob/main/My%20gif.gif)
+<!-- ![logo](https://github.com/rohitdhumal20191/rohitdhumal20191/blob/main/My%20gif.gif) -->
+
+<img align="center" alt="coding" width="650" margin-left="30px" src="https://github.com/rohitdhumal20191/rohitdhumal20191/blob/main/My%20gif.gif" >
+
 <h1 align="center">Hi 👋, I'm Rohit Dhumal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 

@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhumal20191&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhumal20191" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://rohitdhumal20191.github.io/my_portfolio.github.io/](https://rohitdhumal20191.github.io/my_portfolio.github.io/)
 
